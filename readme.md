@@ -2,12 +2,9 @@
 Takes a Point and geojson data and determines if the points/point inside the polygons/multipolygons.
 
 ## Installation
-By downloading the package
 ```html
-<script src="./dist/inGeojsonArea.umd.js"></script>
+<script src="https://npmcdn.com/@mahmudz/in-geojson-area@2.0.0/dist/inGeojsonArea.umd.js"></script>
 ```
-
-CDN coming soon...
 
 
 ## Usage
