@@ -3,7 +3,7 @@ Takes a Point and geojson data and determines if the points/point inside the pol
 
 ## Installation
 ```html
-<script src="https://npmcdn.com/@mahmudz/in-geojson-area@2.0.0/dist/inGeojsonArea.umd.js"></script>
+<script src="https://npmcdn.com/@mahmudz/in-geojson-area@latest/dist/inGeojsonArea.umd.js"></script>
 ```
 
 

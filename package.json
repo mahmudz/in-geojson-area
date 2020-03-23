@@ -1,6 +1,6 @@
 {
 	"name": "@mahmudz/in-geojson-area",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"description": "Determines wheather a point is in side geojson polygons",
 	"main": "index.js",
 	"scripts": {
