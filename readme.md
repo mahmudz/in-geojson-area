@@ -29,7 +29,7 @@ let points = [
     [-81.124464, 29.33357]
 ];
 
-const results = inGeojsonArea.areThey([-81.124464, 29.333577], geojson);
+const results = inGeojsonArea.areThey(points, geojson);
 
 // returns array of points & is inside area response
 // [
